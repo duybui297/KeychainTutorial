@@ -1,0 +1,6 @@
+framework module Pods_TheiOSAppTemplatesBlogs {
+  umbrella header "Pods-TheiOSAppTemplatesBlogs-umbrella.h"
+
+  export *
+  module * { export * }
+}
